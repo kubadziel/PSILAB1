@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="987874df-d21e-472e-af4e-80d84c33940c" name="Changes" comment="photo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strona/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/strona/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,8 @@
       <updated>1636838039189</updated>
       <workItem from="1636838040398" duration="3081000" />
       <workItem from="1636841290624" duration="10000" />
-      <workItem from="1636841311247" duration="1403000" />
+      <workItem from="1636841311247" duration="1727000" />
+      <workItem from="1636897506728" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1636838108272</created>
